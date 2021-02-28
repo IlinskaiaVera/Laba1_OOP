@@ -19,6 +19,6 @@ public class Primes {
                 end = false;
             }
         }
-        return end; 
+        return end;
     }
 }
